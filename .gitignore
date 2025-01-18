@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.env
+
+# Large Files
+*.h5
+*.onnx
+*.ckpt
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+dataset/
